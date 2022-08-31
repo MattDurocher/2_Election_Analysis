@@ -31,7 +31,7 @@ The project code shows the following:
 This Election Audit Analysis was done in order to find out the results of a local elction looking for data on the amount of votes cast in total/for each candidate to determine a winner. Then, votes were analyzed by county so see which county had the largest turnout of of the three. Votes per candidate and county were measured in both amount and percentage of the total. Here are the printed results:
 <img width="417" alt="Election_Results" src="https://user-images.githubusercontent.com/111014191/187780011-eb104c2e-81b6-459c-a920-2efc4e674db3.png">
 
-## Election_Audit Results
+## Election-Audit Results
 - How many votes were cast in this congressional election?
     - There were 369,711 total votes in the election. 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.

@@ -11,10 +11,10 @@ In this project, we were able to:
 
 All of the information was coded in a .py file with instructions to export the important information requested by the Colorado Board of Elections into and easy to read .txt file.
 
-## Resources
+## Project Resources
 To complete this, the data file election_results.csv was used to pull election data from while the code do determine the outcome was written in Python using Visual Studio Code.
 
-## Summary
+## Project Summary
 The project code shows the following:
 - There were 369,711 votes caast in the election
 - There were three candidates (listed below):
@@ -33,9 +33,16 @@ This Election Audit Analysis was done in order to find out the results of a loca
 
 ## Election_Audit Results
 - How many votes were cast in this congressional election?
+    - There were 369,711 total votes in the election. 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+    - Jefferson County had 38,855 votes which made up 10.5% of the total votes.
+    - Denver County had 306,055 votes which made up 82.8% of the total votes.
+    - Arapahoe County had 24,801 votes which made up 6.7% of the total votes.
 - Which county had the largest number of votes?
+    - Denver County had the largest number of votes.
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+    - Charles Casper Stockham had 85,213 votes which made up 23.0% of the total votes.
+    - Diana DeGetter had 272,892 votes which made up 73.8% of the total votes.
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 ## Election-Audit Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.

@@ -29,6 +29,7 @@ The project code shows the following:
 
 ## Overview of Election Audit
 This Election Audit Analysis was done in order to find out the results of a local elction looking for data on the amount of votes cast in total/for each candidate to determine a winner. Then, votes were analyzed by county so see which county had the largest turnout of of the three. Votes per candidate and county were measured in both amount and percentage of the total. Here are the printed results:
+<img width="417" alt="Election_Results" src="https://user-images.githubusercontent.com/111014191/187780011-eb104c2e-81b6-459c-a920-2efc4e674db3.png">
 
 ## Election_Audit Results
 - How many votes were cast in this congressional election?

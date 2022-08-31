@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Project Overview
+## Moduel Overview
 This project saw us helping the Colorado Board of Elections with grabbing all the data from their recent election to determine who the winner was. 
 In this project, we were able to:
 1. Calculate the total number of votes cast
@@ -11,14 +11,14 @@ In this project, we were able to:
 
 All of the information was coded in a .py file with instructions to export the important information requested by the Colorado Board of Elections into and easy to read .txt file.
 
-## Project Resources
+## Moduel Resources
 To complete this, the data file election_results.csv was used to pull election data from while the code do determine the outcome was written in Python using Visual Studio Code.
 
-## Project Summary
+## Moduel Summary
 The project code shows the following:
 - There were 369,711 votes caast in the election
 - There were three candidates (listed below):
-    - Charles Casper Stockham
+    - Charles Casper Stockha
     - Diana DeGette
     - Raymon Anthony Doane
 - Their results showed that:
@@ -47,4 +47,4 @@ This Election Audit Analysis was done in order to find out the results of a loca
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
     - Diana DeGette won the election with 272,892 votes which made up 73.8% of the total votes.
 ## Election-Audit Summary
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+One example on how to modify the code for another election would be to track more data and output those findings. We tracked two things, candidate and county. We could track tax brackets, city, household size, etc. in order to get more information about the voters to better analyze or predict voting patterns. Another modification would then be to be able to take these new categories and put them up against the total results as a whole. Find out what percentage of voters in a given tax bracket voted for each candidate or find out which percentage of voters in a given county or the election as a whole were in a specific tax bracket. No matter what modification is made for the next election, a deeper understanding of the populus would be achived as long as the goverment expands the data that they want to track. Once this happnes, they will be able to understand voters better and better with the addition of each category.

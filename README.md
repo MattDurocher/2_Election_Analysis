@@ -42,7 +42,9 @@ This Election Audit Analysis was done in order to find out the results of a loca
     - Denver County had the largest number of votes.
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
     - Charles Casper Stockham had 85,213 votes which made up 23.0% of the total votes.
-    - Diana DeGetter had 272,892 votes which made up 73.8% of the total votes.
+    - Diana DeGette had 272,892 votes which made up 73.8% of the total votes.
+    - Raymon Anthony Doane had 11,606 votes which made up 3.1% of the total votes.
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+    - Diana DeGette won the election with 272,892 votes which made up 73.8% of the total votes.
 ## Election-Audit Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
